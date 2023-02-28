@@ -1,3 +1,3 @@
-module session-cli
+module session
 
 go 1.20
